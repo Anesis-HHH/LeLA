@@ -24,12 +24,14 @@ ToDo
    * Menu plus simple et complet
    * Gestion de téléchargement (via HTML5 FileSystem API ou IndexedDB storage selon le navigateur)
    * Page "À propos"
+   * Gestion de langues
  * Backend
    * Gestion de comptes
    * Gestion de releases
    * Gestion de miniatures
    * Gestion de chapitres
-   * Boite à erreurs
+   * Gestion de thèmes
+   * i18n & l10n
 
 Changelog
 ===
