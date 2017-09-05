@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /
+RewriteCond %{THE_REQUEST} /index\.php\?r=([^\s]+) [NC]
+RewriteRule . paluchage-sur-%1.html? [R=301,L]
+RewriteRule ^paluchage-sur-(.+)\.html$ index.php?r=$1 [L]
