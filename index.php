@@ -62,7 +62,7 @@
 	  ga('send', 'pageview');
 
 	</script>
-	<div id="credit">HHH LEL - Développé par Lukia,Westixy et Albirew</div>
+	<div id="credit"><a href="https://github.com/Anesis-HHH/LeLA">LeLA, la LEL HHH</a> - Développé par Lukia,Westixy et Albirew</div>
 	<?php if(!empty($_GET['r'])){
 		echo '<script> getTitle =  "'.$_GET['r'].'"; </script>';
 	?>

@@ -392,6 +392,8 @@ nav:hover.deployed {
     right: 25px;
     font-size: 12px;
 }
+#credit a:link {color: #fff;}
+#credit a:visited, #credit a:hover {color: #aaa;}
 
 #handreading{
 position: relative;
